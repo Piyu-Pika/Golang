@@ -50,6 +50,13 @@ This repository contains sample Go code demonstrating various fundamental concep
          myutil.PrintMessage("Hello from package!")
      }
      ```
+ 8. **Slices** (`main.go` lines 0-10)
+    - Basic slice declaration and initialization
+    - Length calculation with `len()`
+    - make function in slices
+    - capacity of slices
+    - run with: `go run main.go`
+
 
 ## Getting Started
 
