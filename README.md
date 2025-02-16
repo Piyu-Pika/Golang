@@ -62,24 +62,24 @@ This repository contains sample Go code demonstrating various fundamental concep
     - Example of decision making in Go
     - Run with: `go run main.go`
  10. **For Loops** (`main.go` lines 0-20)
-    - Iteration using `for` loops (Go's only loop construct)
-    - Basic `for` loop structure
-    - Simulating `while` loops
-    - Iterating over arrays and slices with `range` (index and value)
-    - Creating infinite loops and using `break`
-    - Run with: `go run main.go`
+     - Iteration using `for` loops (Go's only loop construct)
+     - Basic `for` loop structure
+     - Simulating `while` loops
+     - Iterating over arrays and slices with `range` (index and value)
+     - Creating infinite loops and using `break`
+     - Run with: `go run main.go`
  11. **Switch Statements** (`main.go` lines 0-15)
-    - Multi-way branching based on value matching
-    - `switch` statement with `case` clauses
-    - Optional `default` case
-    - Implicit `break` after each case
-    - Run with: `go run main.go`
+     - Multi-way branching based on value matching
+     - `switch` statement with `case` clauses
+      - Optional `default` case
+     - Implicit `break` after each case
+     - Run with: `go run main.go`
  12. **Maps** (`main.go` lines 0-15)
-    - Declaration and initialization of maps (key-value pairs)
-    - Accessing and modifying map elements
-    - Checking for key existence
-    - Using `len()` to get the number of key-value pairs
-    - Run with: `go run main.go`
+     - Declaration and initialization of maps (key-value pairs)
+     - Accessing and modifying map elements
+     - Checking for key existence
+     - Using `len()` to get the number of key-value pairs
+     - Run with: `go run main.go`
 
 ## Getting Started
 
