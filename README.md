@@ -56,6 +56,28 @@ This repository contains sample Go code demonstrating various fundamental concep
     - make function in slices
     - capacity of slices
     - run with: `go run main.go`
+ 9. **if else** (`main.go` lines 0-10)
+    - if else statement
+    - else if statement
+    - else statement
+    - use to check the condition
+    - run with: `go run main.go`
+ 10. **for loop** (`main.go` lines 0-10)
+    - for loop
+    - only for loop available in go
+    - create an infinite loop using break
+    - get index,value from the array and slice using range
+    - similarly we can use range to iterate over array and slice
+    - run with: `go run main.go`
+ 11. **switch case** (`main.go` lines 0-10)
+    - switch case
+    - use to check the condition
+    - can use multiple case
+    - run with: `go run main.go`
+ 12. **map** (`main.go` lines 0-10)
+    - map declaration and initialization
+    - length calculation with `len()`
+    - run with: `go run main.go`
 
 
 ## Getting Started
