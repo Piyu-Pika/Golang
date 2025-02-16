@@ -80,6 +80,16 @@ This repository contains sample Go code demonstrating various fundamental concep
      - Checking for key existence
      - Using `len()` to get the number of key-value pairs
      - Run with: `go run main.go`
+ 13. **Structs** (`main.go` lines 0-15)
+     - Declaration and initialization of structs (key-value pairs)
+     - Accessing and modifying struct elements
+     - Run with: `go run main.go`
+ 14. **Pointers** (`main.go` lines 0-15)
+     - Declaring and initializing pointers
+     - Dereferencing pointers
+     - Pointer arithmetic
+     - Run with: `go run main.go`
+ 
 
 ## Getting Started
 
