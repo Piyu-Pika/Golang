@@ -56,29 +56,30 @@ This repository contains sample Go code demonstrating various fundamental concep
     - make function in slices
     - capacity of slices
     - run with: `go run main.go`
- 9. **if else** (`main.go` lines 0-10)
-    - if else statement
-    - else if statement
-    - else statement
-    - use to check the condition
-    - run with: `go run main.go`
- 10. **for loop** (`main.go` lines 0-10)
-    - for loop
-    - only for loop available in go
-    - create an infinite loop using break
-    - get index,value from the array and slice using range
-    - similarly we can use range to iterate over array and slice
-    - run with: `go run main.go`
- 11. **switch case** (`main.go` lines 0-10)
-    - switch case
-    - use to check the condition
-    - can use multiple case
-    - run with: `go run main.go`
- 12. **map** (`main.go` lines 0-10)
-    - map declaration and initialization
-    - length calculation with `len()`
-    - run with: `go run main.go`
-
+ 9. **If/Else Statements** (`main.go` lines 0-15)
+    - Conditional execution based on boolean expressions
+    - `if`, `else if`, and `else` blocks
+    - Example of decision making in Go
+    - Run with: `go run main.go`
+ 10. **For Loops** (`main.go` lines 0-20)
+    - Iteration using `for` loops (Go's only loop construct)
+    - Basic `for` loop structure
+    - Simulating `while` loops
+    - Iterating over arrays and slices with `range` (index and value)
+    - Creating infinite loops and using `break`
+    - Run with: `go run main.go`
+ 11. **Switch Statements** (`main.go` lines 0-15)
+    - Multi-way branching based on value matching
+    - `switch` statement with `case` clauses
+    - Optional `default` case
+    - Implicit `break` after each case
+    - Run with: `go run main.go`
+ 12. **Maps** (`main.go` lines 0-15)
+    - Declaration and initialization of maps (key-value pairs)
+    - Accessing and modifying map elements
+    - Checking for key existence
+    - Using `len()` to get the number of key-value pairs
+    - Run with: `go run main.go`
 
 ## Getting Started
 
