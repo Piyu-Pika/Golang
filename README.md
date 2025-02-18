@@ -89,6 +89,18 @@ This repository contains sample Go code demonstrating various fundamental concep
      - Dereferencing pointers
      - Pointer arithmetic
      - Run with: `go run main.go`
+ 15. **Data Conversion** (`main.go` lines 0-15)
+     - Converting between different data types
+     - Implicit type conversion
+     - Explicit type conversion
+     - Run with: `go run main.go`
+ 16. **Strings** (`main.go` lines 0-15)
+     - Splitting strings
+     - Counting words in a string
+     - Trimming whitespace
+     - Joining strings
+     - Run with: `go run main.go`
+17.
  
 
 ## Getting Started
