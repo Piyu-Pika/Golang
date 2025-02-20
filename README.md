@@ -100,7 +100,20 @@ This repository contains sample Go code demonstrating various fundamental concep
      - Trimming whitespace
      - Joining strings
      - Run with: `go run main.go`
-17.
+17. **file-manage** (`main.go` lines 0-15)
+    - Reading and writing files
+    - Creating and deleting directories
+    - Renaming files
+    - Run with: `go run main.go`
+18. **http** (`main.go` lines 0-15)
+    - Making HTTP requests
+    - Parsing JSON responses
+    - Handling errors
+    - Run with: `go run main.go`
+19. **url-parse** (`main.go` lines 0-15)
+    - Parsing URLs
+    - Extracting query parameters
+    - Run with: `go run main.go`
  
 
 ## Getting Started
