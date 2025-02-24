@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-
+	fmt.Println("=====================================")
 	fmt.Println("Hello World")
 	fmt.Println("=====================================")
 	var version string = "1.0.0"
