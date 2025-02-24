@@ -114,6 +114,26 @@ This repository contains sample Go code demonstrating various fundamental concep
     - Parsing URLs
     - Extracting query parameters
     - Run with: `go run main.go`
+20. **apiCall** (`main.go` lines 0-15)
+    - Making API calls
+    - Parsing JSON responses
+    - Handling errors
+    - Run with: `go run main.go`
+21. **json-parse** (`main.go` lines 0-15)
+    - Parsing JSON
+    - Accessing JSON elements
+    - Run with: `go run main.go`    
+22. **goroutines** (`main.go` lines 0-15)
+    - Creating and managing goroutines
+    - Passing data between goroutines
+    - Synchronizing goroutines
+    - Run with: `go run main.go`
+23. **syncWait** (`main.go` lines 0-15)
+    - Using `sync.WaitGroup` to synchronize goroutines
+    - Using `sync.Mutex` to synchronize access to shared data
+    - Run with: `go run main.go`
+
+
  
 
 ## Getting Started
